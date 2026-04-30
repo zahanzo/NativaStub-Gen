@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NativaStub Gen/NativaStub Gen.vcxproj" Id="93eec9ac-30ec-458a-b854-6b7e3fcb8192" />
+</Solution>

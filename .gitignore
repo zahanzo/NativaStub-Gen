@@ -1,0 +1,42 @@
+# --- Visual Studio Temporaries ---
+.vs/
+ipch/
+*.aps
+*.pch
+*.vsidx
+*.suo
+*.user
+*.userossc
+*.sln.doccache
+*.vssscc
+*.cache
+*.db
+*.opendb
+
+# --- Build Output (Artifacts) ---
+# Ignora binários para manter o foco no código-fonte
+[Xx]64/
+[Xx]86/
+Debug/
+Release/
+bin/
+obj/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.exp
+*.ilk
+*.bin
+
+# --- C++ Specifics ---
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# --- Misc / OS ---
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
