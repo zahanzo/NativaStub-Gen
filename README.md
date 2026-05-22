@@ -5,7 +5,7 @@
 **NativaStub-Gen** is an automated tool developed in **C++20** that statically parses the Windows `ntdll.dll` binary to dynamically extract System Service Numbers (SSNs) and generate ready-to-use Direct Syscall stubs. 
 
 ### 🎓 Motivation
-This project was developed as a practical application and final evaluation project for the **Kernelzera** certification. The goal was to demonstrate a deep understanding of Windows internals, PE (Portable Executable) file parsing, and evasion techniques used in Red Teaming to bypass Endpoint Detection and Response (EDR) user-mode hooks.
+The goal was to demonstrate a deep understanding of Windows internals, PE (Portable Executable) file parsing, and evasion techniques used in Red Teaming to bypass Endpoint Detection and Response (EDR) user-mode hooks.
 
 ---
 
