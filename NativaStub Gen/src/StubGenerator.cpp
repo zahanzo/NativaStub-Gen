@@ -26,7 +26,7 @@ bool StubGenerator::GenerateAsm() {
         asmFile << syscalls[i].name << " endp\n\n";
     }
 
-    // Diretiva vital para o compilador MASM
+    // MASM
     asmFile << "end\n";
 
     asmFile.close();
